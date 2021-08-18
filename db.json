@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Hari",
+      "age": 999
+    },
+    {
+      "id": 2,
+      "name": "Hari"
+    },
+    {
+      "name": "Myname",
+      "age": 20,
+      "id": 3
+    },
+    {
+      "name": "Besties",
+      "age": 679,
+      "id": 4
+    },
+    {
+      "name": "Besties",
+      "age": 679,
+      "id": 5
+    }
+  ]
+}

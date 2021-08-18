@@ -1,1 +1,5 @@
-console.log('Hi There');
+import { User } from './models/User';
+
+const user = new User({ name: 'Besties', age: 679 });
+
+user.save();
